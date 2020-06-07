@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I've had Python 3 installed in anticipation for this course. It's import to keep your programming language versions up to date especially when changes are made to the syntax, and I believe a few have been made from 2 to 3.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3.7.6 :ok_hand:
 
  
 
